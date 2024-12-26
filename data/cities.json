@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
+    },
+    {
+      "id": "1d6f",
+      "cityName": "Oum Laadham",
+      "country": "Algeria",
+      "date": "2024-12-25T11:18:32.670Z",
+      "position": {
+        "lat": "33.37641235124679",
+        "lng": "4.526367187500001"
+      },
+      "emoji": "🇩🇿",
+      "notes": "lalala"
+    },
+    {
+      "id": "a55d",
+      "cityName": "Abenojar",
+      "country": "Spain",
+      "date": "2024-12-26T07:13:20.564Z",
+      "position": {
+        "lat": "38.89103282648846",
+        "lng": "-4.592285156250001"
+      },
+      "emoji": "🇪🇸",
+      "notes": "ABC"
     }
   ]
 }
